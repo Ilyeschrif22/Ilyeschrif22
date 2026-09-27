@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <pre>
@@ -16,15 +17,17 @@
  ╚═════╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=900&color=E95420&center=true&vCenter=true&width=760&height=45&lines=root%40ilyes%3A~%23+whoami;Software+Engineering+Student+%40+ESPRIT;Full+Stack+Developer+%3A+React+%2B+Spring+Boot;I+ship+CRMs%2C+backends+%26+clean+UIs;sudo+apt+install+coffee" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&height=45&lines=root%40ilyes%3A~%23+whoami;Software+Engineering+Student+%40+ESPRIT;Full+Stack+Developer+%3A+React+%2B+Spring+Boot;I+ship+CRMs%2C+backends+%26+clean+UIs;sudo+apt+install+coffee" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Full%20Stack%20JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Full%20Stack%20JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
 
-<img src="https://komarev.com/ghpvc/?username=Ilyeschrif22&style=for-the-badge&color=E95420&label=BUILDS+SHIPPED" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ilyeschrif22&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -95,31 +98,33 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Theme      Yaru [Orange, obviously]
 
 ### `frontend+backend/`
 
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E95420&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
 
 `REST APIs` `auth & RBAC`
+
 `CRM systems` `microservices`
 
 </td><td valign="top" width="50%">
 
 ### `data+infra/`
 
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E95420&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FFFFFF" />
 
 `CI/CD` `containerization`
+
 `reverse proxy` `HTTPS via Let's Encrypt`
 
 </td></tr>
@@ -127,24 +132,26 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Theme      Yaru [Orange, obviously]
 
 ### `quality+monitoring/`
 
-<img src="https://img.shields.io/badge/SonarQube-0D1117?style=for-the-badge&logo=sonarqube&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=E95420&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SonarQube-0D1117?style=for-the-badge&logo=sonarqube&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=FFFFFF" />
 
 `code quality` `observability`
+
 `API testing` `test automation`
 
 </td><td valign="top">
 
 ### `ai+ml/`
 
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/BERT-0D1117?style=for-the-badge&logo=huggingface&logoColor=E95420&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/BERT-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFFFFF" />
 
 `NLP` `computer vision`
+
 `LLM integration`
 
 </td></tr>
@@ -219,12 +226,13 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Theme      Yaru [Orange, obviously]
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ilyeschrif22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E95420&icon_color=E95420&text_color=C9D1D9&include_all_commits=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyeschrif22&layout=compact&hide_border=true&bg_color=0D1117&title_color=E95420&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ilyeschrif22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&include_all_commits=true&rank_icon=github" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=Ilyeschrif22&hide_border=true&background=0D1117&ring=E95420&fire=E95420&currStreakLabel=E95420&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&stroke=E95420" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyeschrif22&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilyeschrif22&bg_color=0D1117&color=C9D1D9&line=E95420&point=FFB380&area=true&area_color=E95420&hide_border=true&custom_title=commit%20traffic" />
+<img height="165" src="https://streak-stats.demolab.com?user=Ilyeschrif22&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&stroke=30363D" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilyeschrif22&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&area_color=30363D&hide_border=true&custom_title=commit%20traffic" />
 
 </div>
 
@@ -235,13 +243,21 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Theme      Yaru [Orange, obviously]
 <div align="center">
 
 <a href="mailto:lyeschrif50@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=E95420&labelColor=0D1117" /></a>
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+</a>
 <a href="https://www.linkedin.com/in/ilyes-chrif-521b243b1">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=E95420&labelColor=0D1117" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+</a>
 <a href="https://github.com/Ilyeschrif22">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=E95420&labelColor=0D1117" /></a>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
 <a href="https://minicube-dev.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=E95420&labelColor=0D1117" /></a>
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<sub><code>ilyes@ubuntu:~$ echo "Let's build something."</code></sub>
 
 </div>
 
