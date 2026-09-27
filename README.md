@@ -16,16 +16,15 @@
  ╚═════╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=900&color=9D4EDD&center=true&vCenter=true&width=760&height=45&lines=root%40ilyes%3A~%23+whoami;Software+Engineering+Student+%40+ESPRIT;Full+Stack+Developer+%3A%3A+React+%2B+Spring+Boot+%2B+FastAPI;I+ship+CRMs%2C+backends+%26+clean+UIs;sudo+apt+install+coffee" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=900&color=9D4EDD&center=true&vCenter=true&width=760&height=45&lines=root%40ilyes%3A~%23+whoami;Software+Engineering+Student+%40+ESPRIT;Full+Stack+Developer+%3A+React+%2B+Spring+Boot;I+ship+CRMs%2C+backends+%26+clean+UIs;sudo+apt+install+coffee" alt="typing" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/ESPRIT-0D1117?style=for-the-badge&logo=readthedocs&logoColor=9D4EDD&labelColor=0D1117" />
-
-<img src="https://komarev.com/ghpvc/?username=Ilyeschrif22&style=for-the-badge&color=9D4EDD&label=BUILDS+SHIPPED" />
+<img src="https://img.shields.io/badge/Full%20Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" />
 
 </div>
 
@@ -38,12 +37,16 @@
 └─$ whoami --verbose
 
   name        Ilyes Chrif
-  class       Software Engineering :: TWIN specialization
+  role        Software Engineer :: Full Stack Developer
+  stack       React · Spring Boot · Java · TypeScript
+  infra       Docker · Nginx · Linux · CI/CD
   school      ESPRIT School of Engineering · Tunisia
-  year        final year engineer [2024 → 2027]
-  alignment   ships fast, refactors later, never on Friday deploy
-
+  degree      Computer Science Engineering :: TWIN
+  status      final year engineer [2024 → 2027]
+  philosophy  clean code, practical systems, no unnecessary complexity
+  deploys     works on localhost™
 ```
+
 
 ## `$ ls -la /opt/stack`
 
