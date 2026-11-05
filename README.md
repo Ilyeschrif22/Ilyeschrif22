@@ -1,111 +1,25 @@
-<div align="center">
+# Hi, I'm Ilyes Chrif
 
-<pre>
-██╗  ██╗       ██╗   ██╗  ███████╗  ███████╗
-██║  ██║       ╚██╗ ██╔╝  ██╔════╝  ██╔════╝
-██║  ██║        ╚████╔╝   █████╗    ███████╗
-██║  ██║        ╚██╔╝    ██╔══╝    ╚════██║
-██║  ███████╗     ██║     ███████╗  ███████║
-╚═╝  ╚══════╝     ╚═╝     ╚══════╝  ╚══════╝
+**Software Engineering Student @ ESPRIT | Full Stack Developer**
 
- ██████╗  ██╗  ██╗  ██████╗   ██╗  ███████╗
-██╔════╝  ██║  ██║  ██╔══██╗  ██║  ██╔════╝
-██║       ███████║  ██████╔╝  ██║  █████╗
-██║       ██╔══██║  ██╔══██╗  ██║  ██╔══╝
-╚██████╗  ██║  ██║  ██║  ██║  ██║  ██║
- ╚═════╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝
-</pre>
+I build web applications and backend systems using React, Java, Spring Boot, and TypeScript.
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=900&color=9D4EDD&center=true&vCenter=true&width=760&height=45&lines=root%40ilyes%3A~%23+whoami;Software+Engineering+Student+%40+ESPRIT;Full+Stack+Developer+%3A+React+%2B+Spring+Boot;I+ship+CRMs%2C+backends+%26+clean+UIs;sudo+apt+install+coffee" alt="typing" />
+### Tech Stack
+- **Frontend:** React, Angular, Next.js
+- **Backend:** Java, Spring Boot, Node.js, FastAPI
+- **Database:** MySQL, PostgreSQL, MongoDB
+- **DevOps:** Docker, Linux, Nginx, CI/CD
 
-<br/>
+### Philosophy
 
-<img src="https://img.shields.io/badge/Full%20Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" />
+> Keep it simple. Take steady steps. You'll get there.
 
-</div>
+- Understand before optimizing.
+- Build before complicating.
+- Make mistakes, then improve.
+- Consistency over speed.
 
+### Connect
 
-
-## `$ cat ~/.profile`
-
-```console
-┌──(ilyes㉿ubuntu)-[~]
-└─$ whoami --verbose
-
-  name        Ilyes Chrif
-  role        Software Engineer :: Full Stack Developer
-  stack       React · Spring Boot · Java · TypeScript
-  infra       Docker · Nginx · Linux · CI/CD
-  school      ESPRIT School of Engineering · Tunisia
-  degree      Computer Science Engineering :: TWIN
-  status      final year engineer [2024 → 2027]
-  philosophy  clean code, practical systems, no unnecessary complexity
-  deploys     works on localhost™
-```
-
-
-## `$ ls -la /opt/stack`
-
-<table>
-<tr><td valign="top" width="50%">
-
-### `frontend+backend/`
-
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=9D4EDD&labelColor=0D1117" />
-
-`REST APIs` `auth & RBAC`
-`CRM systems` `microservices`
-
-</td><td valign="top" width="50%">
-
-### `data+infra/`
-
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=9D4EDD&labelColor=0D1117" />
-
-`CI/CD` `containerization`
-`reverse proxy` `HTTPS via Let's Encrypt`
-
-</td></tr>
-<tr><td valign="top">
-
-### `quality+monitoring/`
-
-<img src="https://img.shields.io/badge/SonarQube-0D1117?style=for-the-badge&logo=sonarqube&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=9D4EDD&labelColor=0D1117" />
-
-`code quality` `observability`
-`API testing` `test automation`
-
-</td><td valign="top">
-
-### `ai+ml/`
-
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=9D4EDD&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/BERT-0D1117?style=for-the-badge&logo=huggingface&logoColor=9D4EDD&labelColor=0D1117" />
-
-`NLP` `computer vision`
-`LLM integration`
-
-</td></tr>
-</table>
+- LinkedIn: https://www.linkedin.com/in/ilyes-chrif-521b243b1/
+- Website: https://minicube-dev.vercel.app/
